@@ -1,6 +1,6 @@
 function App() {
   return (
-    <h1>React TypeScript Template</h1>
+    <h1>React MapLibre TypeScript Template</h1>
   );
 }
 

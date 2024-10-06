@@ -1,1 +1,1 @@
-# React TypeScript Template
+# React MapLibre TypeScript Template
